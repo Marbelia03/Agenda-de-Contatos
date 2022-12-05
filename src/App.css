@@ -1,0 +1,73 @@
+body {
+  text-align: center;
+  background-color: #c2d3d6;
+
+}
+
+form{
+  height: 300px;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  
+}
+
+.formRow{
+  display: flex;
+  margin-bottom: 20px;
+  
+
+}
+
+.formRow label{
+  padding-right: 10px;
+}
+
+li{
+  display: flex;
+}
+
+.contatos-agenda ul{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.contatos-agenda li{
+  display: flex;
+  height: 30px;
+  align-items: center;
+  padding-left: 10px;
+}
+
+.contatos-agenda span{
+  width: 50%;
+}
+
+.contatos-agenda li button{
+  margin-left: 10px;
+}
+
+
+button {
+  background-color: rgb(66, 47, 150);
+  color: white;
+  font-weight: 700;
+  height: 20px;
+  border-radius: 5px;
+  border: 2px solid transparent;
+  line-height: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #0400c7;
+  padding: 10px;
+}
+
+button:hover {
+  background: #d40707;
+  color: wheat;
+  transition: 0.5s;
+}

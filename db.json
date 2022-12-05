@@ -1,0 +1,28 @@
+{
+  "contatos": [
+    {
+      "nome": "Marbelia La Rosa",
+      "telefone": "(22) 997109784",
+      "email": "vitti.larosa@gmail.com",
+      "id": 1
+    },
+    {
+      "nome": "Julio Romero",
+      "telefone": "(22) 789654231",
+      "email": "julio.romero@gmail.com",
+      "id": 2
+    },
+    {
+      "nome": "Pedro Monteiro",
+      "telefone": "(45)789632541",
+      "email": "perdro123@gmail.com",
+      "id": 3
+    },
+    {
+      "nome": "Julia Alvares",
+      "telefone": "(45)963258741",
+      "email": "julia1992@hotmail.com",
+      "id": 4
+    }
+  ]
+}
